@@ -14,8 +14,6 @@ From the user side, the app would let you:
 - Track if you’ve practiced or mastered them  
 - Search/filter questions by tags  
 
-It’s mobile-first so you can just pull it up quickly anywhere.
-
 ## Scope
 Seems like a good semester project. Not too small (there’s question management, notes, tracking) but not too complex either. A group of 4–5 could do the main stuff.
 
